@@ -1,5 +1,6 @@
 # Stock Price Prediction for Dual-list Stocks in Hong Kong and New York
-Refer detail paper to Dual List Stock Prediction Project Paper.pdf
+Detailed paper refers to Dual List Stock Prediction Project Paper.pdf
+Presentation refers to https://youtu.be/BnaqN3CDniQ
 
 ## ABSTRACT
 We selected a popular stock in Hong Kong stock market, which is HSBC stock (0005.HK). This stock is cross-listed on exchanges in Hong Kong and New York. We studied the patterns of information flow for HSBC stocks, trying to find out the relationship between these dual-listed stocks. Results showing that the offshore (New York) markets has significant impact on the domestic (Hong Kong) markets. We can use offshore closing price to predict the trend of domestic markets of the next day. We used 2 different approaches to fit a prediction model, ARIMA and LSTM models. Results showing that ARIMA model is more reliable than LSTM on this stock price prediction.
